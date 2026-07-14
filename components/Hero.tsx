@@ -20,7 +20,7 @@ export const Hero: React.FC = () => {
           {/* Text Content */}
           <div className="flex flex-col gap-6 text-center md:text-left items-center md:items-start order-2 md:order-1">
             <h1 className="text-2xl md:text-[30px] font-bold text-brand-teal leading-tight tracking-wide">
-              ALCANCE O SEU EMAGRECIMENTO DE FORMA LEVE E SEM SACRIFÍCIOS
+              Emagreça de forma definitiva com um acompanhamento nutricional que se adapta à sua rotina
             </h1>
             
             <div className="space-y-4 text-brand-text font-medium text-base md:text-[16px]">

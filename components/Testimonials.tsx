@@ -36,7 +36,7 @@ export const Testimonials: React.FC = () => {
               href="https://api.whatsapp.com/send?phone=5521997514370&text=Ol%C3%A1%20Nutri%2C%20vi%20o%20seu%20v%C3%ADdeo%20e%20gostaria%20de%20saber%20mais%20sobre%20o%20seu%20trabalho!" 
               className="bg-brand-green text-white font-bold py-3 px-6 md:py-4 md:px-8 rounded-full shadow-lg hover:bg-green-600 transition-colors uppercase text-sm md:text-base text-center w-full md:w-auto block md:inline-block"
              >
-                ENTRAR EM CONTATO COM A NUTRI
+                QUERO SER ACOMPANHADA PELA NUTRI
              </a>
         </div>
       </div>

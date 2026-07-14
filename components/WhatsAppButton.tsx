@@ -8,7 +8,7 @@ interface WhatsAppButtonProps {
 
 export const WhatsAppButton: React.FC<WhatsAppButtonProps> = ({ 
   className = "", 
-  text = "ENTRAR EM CONTATO COM A NUTRI",
+  text = "QUERO SER ACOMPANHADA PELA NUTRI",
   fullWidth = false
 }) => {
   const phoneNumber = "5521997514370";
